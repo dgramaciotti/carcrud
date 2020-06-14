@@ -1,0 +1,22 @@
+table{
+  width:100%;
+}
+button{
+  margin:5px;
+}
+.input-pequeno{
+  min-width:70px;
+  max-width:90px;
+}
+mat-form-field{
+  margin: 5px;
+}
+tr:hover:not(.mat-header-row){
+  background-color: rgb(241, 240, 240);
+}
+.selected{
+  background-color: black;
+}
+
+
+
