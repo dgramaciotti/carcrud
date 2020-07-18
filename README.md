@@ -8,6 +8,7 @@ Está sendo usado um arquivo único com o nome listacarros.json. Uma adição fu
 
 Nesta versão ainda não há a presença de testes, tanto para o backend quanto para o front-end.
 
+## Project type
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.5.
 
